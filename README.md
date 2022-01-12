@@ -6,10 +6,12 @@
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropauloo&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1117&hide_border=true&icon_color=C9D1D9&title_color=7A0135&text_color=C9D1D9"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropauloo&layout=compact&langs_count=8&&bg_color=0D1117&hide_border=true&icon_color=C9D1D9&title_color=7A0135&text_color=C9D1D9&hide_title=true"/>
 </div>
 <div align="left">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedropauloo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=C9D1D9&ring=7A0135&fire=7A0135&currStreakNum=C9D1D9&currStreakLabel=C9D1D9&sideNums=7A0135"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropauloo&layout=compact&langs_count=8&&bg_color=0D1117&hide_border=true&icon_color=C9D1D9&title_color=7A0135&text_color=C9D1D9&hide_title=true"/>
+</div>
+<div align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedropauloo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=C9D1D9&ring=7A0135&fire=7A0135&currStreakNum=C9D1D9&currStreakLabel=C9D1D9&sideNums=7A0135"/> 
 </div>
   
   
