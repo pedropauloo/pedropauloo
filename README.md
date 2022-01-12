@@ -32,6 +32,10 @@
   <a href="https://www.instagram.com/_peedropauloo/" target="_blank"><img src="https://img.shields.io/badge/-_peedropauloo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedropaulolucas@hotmail.com"><img src="https://img.shields.io/badge/pedropaulolucas@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-pauloo" target="_blank"><img src="https://img.shields.io/badge/-PedroPaulo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+ <div align="center">
   
   ![Snake animation](https://github.com/pedropauloo/pedropauloo/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
