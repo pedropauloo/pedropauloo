@@ -4,6 +4,8 @@
 - 🎓 Web Developer Technician at IFRN
 - <img align="center" alt="Pedro-React" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Learning and improving ReactJS
 
+##
+
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropauloo&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1117&hide_border=true&icon_color=C9D1D9&title_color=7A0135&text_color=C9D1D9"/>
 </div>
