@@ -1,7 +1,8 @@
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1613122594/12618/party_blob.gif?1613122594" width="28"> Hello! I am Pedro Paulo
+## About
 - 💻 Full-stack web developer
 - 🎓 Web Developer Technician at IFRN
+- 👨‍💻 Computer Science Student at UFRN
 - <img align="center" alt="Pedro-React" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Learning and improving ReactJS
 
 ## Stats
